@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Elensarr
-- 🌱 I’m currently learning C#, Java, Python
+- 🌱 I’m currently learning C#, Java, Python and JavaScript
